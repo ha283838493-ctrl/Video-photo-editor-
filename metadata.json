@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio Pro: Photo, Video & AI Chat",
+  "description": "All-in-one simple photo editor, video editor, and ChatGPT-style intelligent AI assistant with full Urdu & English support.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
